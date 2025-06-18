@@ -1,4 +1,4 @@
-# Gcx
+# Gcx "mgs4"
 
 The gcx tool extracts and reinserts text to and from
 `.xlsx` files in an organized format.
